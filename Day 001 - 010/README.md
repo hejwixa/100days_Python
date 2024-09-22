@@ -7,7 +7,8 @@ This Python script helps you easily calculate how much each person should pay wh
 ## Day 003 🌴 Treasure Island Adventure
 This is a fun text-based adventure game written in Python, where your mission is to find the hidden treasure. Make the right choices, and you may succeed—but beware, danger awaits at every turn!
 
-## Day 004
+## Day 004 ✊📝✂️ Rock, Paper, Scissors Game
+This is a simple Python game where you play against the computer. Choose between rock, paper, or scissors, and see if you can beat the computer!
 
 ## Day 005
 
