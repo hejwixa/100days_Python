@@ -13,7 +13,8 @@ This is a simple Python game where you play against the computer. Choose between
 ### Day 005 🔒 PyPassword Generator
 This Python script helps you generate a secure password by allowing you to specify how many letters, numbers, and symbols you'd like to include. The password is randomly generated and shuffled to ensure it's strong and secure.
 
-### Day 006
+### Day 006 🤖 Reeborg's World Maze Solver
+This project provides a solution to the **Maze** problem on the [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) platform using Python.
 
 ### Day 007 
 
