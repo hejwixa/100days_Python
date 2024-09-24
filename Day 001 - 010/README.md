@@ -19,7 +19,8 @@ This project provides a solution to the **Maze** problem on the [Reeborg's World
 ### Day 007 🎮 Hangman Game
 This project is a simple Python implementation of the **Hangman** game, where you guess letters to find a hidden word. The game chooses a random word from a word list, and the player tries to guess it one letter at a time. You have a limited number of lives, and for each incorrect guess, you lose one life. If you run out of lives before guessing the word, you lose the game!
 
-### Day 008 
+### Day 008 🔐 Caesar Cipher Encryption Tool
+This project implements the **Caesar Cipher**, a simple and widely-known encryption technique, in Python. The cipher works by shifting each letter in a message by a fixed number of positions in the alphabet. You can use this tool to both **encrypt** and **decrypt** messages using the Caesar Cipher technique.
 
 ### Day 009 
 
