@@ -16,7 +16,8 @@ This Python script helps you generate a secure password by allowing you to speci
 ### Day 006 🤖 Reeborg's World Maze Solver
 This project provides a solution to the **Maze** problem on the [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) platform using Python.
 
-### Day 007 
+### Day 007 🎮 Hangman Game
+This project is a simple Python implementation of the **Hangman** game, where you guess letters to find a hidden word. The game chooses a random word from a word list, and the player tries to guess it one letter at a time. You have a limited number of lives, and for each incorrect guess, you lose one life. If you run out of lives before guessing the word, you lose the game!
 
 ### Day 008 
 
