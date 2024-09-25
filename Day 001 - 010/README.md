@@ -22,7 +22,8 @@ This project is a simple Python implementation of the **Hangman** game, where yo
 ### Day 008 🔐 Caesar Cipher Encryption Tool
 This project implements the **Caesar Cipher**, a simple and widely-known encryption technique, in Python. The cipher works by shifting each letter in a message by a fixed number of positions in the alphabet. You can use this tool to both **encrypt** and **decrypt** messages using the Caesar Cipher technique.
 
-### Day 009 
+### Day 009 🏆 Blind Auction 
+This project implements a **blind auction** program in Python, where multiple users can place bids, and at the end, the highest bidder is revealed. The program allows multiple users to input their names and bids, and after all bids are placed, it determines the winner with the highest bid.
 
 ### Day 010
 
