@@ -25,5 +25,5 @@ This project implements the **Caesar Cipher**, a simple and widely-known encrypt
 ### Day 009 🏆 Blind Auction 
 This project implements a **blind auction** program in Python, where multiple users can place bids, and at the end, the highest bidder is revealed. The program allows multiple users to input their names and bids, and after all bids are placed, it determines the winner with the highest bid.
 
-### Day 010
-
+### Day 010 🧮 The Calculator
+This project implements a **basic calculator** in Python that can perform simple arithmetic operations such as addition, subtraction, multiplication, and division. The program allows users to perform consecutive calculations, either continuing with the result of the last operation or starting a new one.
