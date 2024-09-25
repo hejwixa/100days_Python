@@ -8,7 +8,6 @@ def highest_bid():
             winner = bidden
     print(f"The winner is {winner} with a bid of ${highest_bid}")
 
-
 biders = {}
 running_program = True
 while running_program:
