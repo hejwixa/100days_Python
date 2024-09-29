@@ -4,7 +4,9 @@ This Python program lets you play a game of Blackjack against the computer! The 
 ### Day 012 🎯 Number Guessing Game
 This is a fun and simple Number Guessing Game built in Python, where the goal is to guess the correct number between 1 and 100. The game offers two difficulty levels, allowing you to challenge yourself based on how many attempts you want.
 
-### Day 013
+### Day 013 🐛 Debugging Exercise: Find and Fix Errors
+Day 13 is different, as it focused on online exercises and doesn't include any specific project files.
+
 ### Day 014
 ### Day 015
 ### Day 016
