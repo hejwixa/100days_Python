@@ -7,7 +7,9 @@ This is a fun and simple Number Guessing Game built in Python, where the goal is
 ### Day 013 🐛 Debugging Exercise: Find and Fix Errors
 Day 13 is different, as it focused on online exercises and doesn't include any specific project files.
 
-### Day 014
+### Day 014 📱 Higher Lower - Instagram Followers Comparison Game
+This project is a simple console-based game where the user has to guess which celebrity or brand has more Instagram followers. The game continues as long as the user makes correct guesses and displays the final score when they are wrong.
+
 ### Day 015
 ### Day 016
 ### Day 017
