@@ -10,7 +10,9 @@ Day 13 is different, as it focused on online exercises and doesn't include any s
 ### Day 014 📱 Higher Lower - Instagram Followers Comparison Game
 This project is a simple console-based game where the user has to guess which celebrity or brand has more Instagram followers. The game continues as long as the user makes correct guesses and displays the final score when they are wrong.
 
-### Day 015
+### Day 015 ☕ Coffee Machine
+A simple command-line coffee machine simulation built in Python. Users can choose from a menu of coffee types (espresso, latte, cappuccino), check resource sufficiency, make payments, and receive their selected coffee if sufficient resources and funds are available.
+
 ### Day 016
 ### Day 017
 ### Day 018
